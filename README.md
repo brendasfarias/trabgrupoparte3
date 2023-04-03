@@ -12,10 +12,10 @@ Como existem muitos ***gaps*** na área da saúde, optamos por analisar os dados
 
 Este repo não tem divisões por pastas, contendo apenas os arquivos:
 
-- [README.md](https://github.com/Naiomeap/Trabalho-em-Grupo-Sa-de/README.md): Este arquivo.
-- [Trabalho_em_Grupo_Analise_Saude.ipynb](https://github.com/Naiomeap/Trabalho-em-Grupo-Sa-de/blob/main/Trabalho_em_Grupo_Analise_Saude.ipynb): Notebook produzido em Google Colab com as análises.
-- [Tabela_Compilada](https://github.com/Naiomeap/Trabalho-em-Grupo-Sa-de/blob/main/Tabela_Compilada.csv): Base de dados principal, contendo as variáveis demográficas a serem incluídas no modelo.
-- [A011613189_28_143_208](https://github.com/Naiomeap/Trabalho-em-Grupo-Sa-de/blob/main/A011613189_28_143_208.csv): Arquivo auxiliar contendo os dados de nascimentos nos municípios.
+- [README.md](https://github.com/brendasfarias/trabgrupoparte3/blob/main/README.md): Este arquivo.
+- [3P_Analise_Saude.ipynb](https://github.com/brendasfarias/trabgrupoparte3/blob/main/3P_Analise_Saude.ipynb): Notebook produzido em Google Colab com as análises.
+- [Tabela_Compilada](https://github.com/brendasfarias/trabgrupoparte3/blob/main/Tabela_Compilada.csv): Base de dados principal, contendo as variáveis demográficas a serem incluídas no modelo.
+- [A011613189_28_143_208](https://github.com/brendasfarias/trabgrupoparte3/blob/main/A011613189_28_143_208.csv): Arquivo auxiliar contendo os dados de nascimentos nos municípios.
 
 ### Dicionário de Dados
 
@@ -58,7 +58,8 @@ O *dataset* final conta com os seguintes atributos:
 
 ### Autoras
 
-- Brenda Farias
+- Brenda Farias (3ª parte)
+- Naoime Alves (parte 1 e 2)
 
 ### Licença
 
